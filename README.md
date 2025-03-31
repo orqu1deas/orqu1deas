@@ -26,6 +26,11 @@ I'm always curious and open to learning from any area where data can make an imp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiradarian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiradarian2005@gmail.com) 
 
 ---
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1b/90/85/1b9085956c08bb0d1d4462dd2c539068.jpg" />
+</p>
+
+---
 
 ## 💻 Tech Stack:
 
