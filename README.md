@@ -26,11 +26,6 @@ I'm always curious and open to learning from any area where data can make an imp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiradarian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kiradarian2005@gmail.com) 
 
 ---
-<p align="center">
-  <img src="https://i.pinimg.com/736x/1b/90/85/1b9085956c08bb0d1d4462dd2c539068.jpg" />
-</p>
-
----
 
 ## 💻 Tech Stack:
 
@@ -62,9 +57,6 @@ I'm always curious and open to learning from any area where data can make an imp
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orqu1deas&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=orqu1deas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
